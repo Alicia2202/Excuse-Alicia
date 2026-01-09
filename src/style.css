@@ -3,3 +3,17 @@
 body{
     background: white;
 }
+
+.primero{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    width: 100%;
+}
+
+#excusa{
+    padding: 20px 30px;
+    font-size: 100px;
+}
